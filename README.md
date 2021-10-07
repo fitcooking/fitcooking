@@ -28,8 +28,6 @@ There are no ads, trackers, cookies (unless recipes thereof) or javascript.
 - Don't include salt and pepper and other ubiquitous things in the ingredients
   list.
 
-**If you fail to do these things, I will close your submission and you will have to resubmit. I am tired of having to fix more than 50% of submissions.**
-
 ### Tags
 
 You can (and should) add tags at the end of your recipe. The syntax is:
