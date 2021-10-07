@@ -16,7 +16,7 @@ There are no ads, trackers, cookies (unless recipes thereof) or javascript.
 ## Rules for submission
 
 - Model submission files after [example.md](example.md). Put them in `src/`.
-- /fit/ infographics should be a simple .md file with the picture inside. put them in `fitposts/`
+- /fit/ infographics should be a simple .md file with the picture inside. put them in `fitposts/`. See any .md in fitposts for an example. 
 - Recipes should start with a title, with a single `#`, *on the first line*. No
   empty line at the top, no trailing line at the end. The file needs to be `\n`
   terminated in linux-fashion (if you're on linux you don't need to care, it
