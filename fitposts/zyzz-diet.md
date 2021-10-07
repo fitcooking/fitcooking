@@ -1,0 +1,9 @@
+# The Zyzz Diet
+
+![](fitpics/zyzz-diet.webp)
+
+## Contribution
+
+Did you create this infographic? If you can prove it, you can post your donation links here. 
+
+;tags: zyzz diet
