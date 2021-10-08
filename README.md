@@ -1,4 +1,4 @@
-# Based Cooking Website
+# Fit Cooking
 
 [https://fit.cooking](https://fit.cooking)
 
